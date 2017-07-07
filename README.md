@@ -3,4 +3,4 @@ Internet of things applications and libraries based on the ESP32 IDF tool chain.
 
 I2C bus sensors
 
-- Silicon Lab Si-7021 temperature and humidity sensor 
+- Silicon Labs Si-7021 temperature and humidity sensor 
