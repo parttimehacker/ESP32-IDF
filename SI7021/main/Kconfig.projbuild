@@ -1,0 +1,13 @@
+menu "Example Configuration"
+
+config ADAFRUIT_SDA_PIN
+    int "Number of the PIN connected to the I2C SDA"
+	range 0 34
+	default 23
+
+config ADAFRUIT_SCL_PIN
+    int "Number of the PIN connected to the I2C SDA"
+	range 0 34
+	default 22
+
+endmenu
