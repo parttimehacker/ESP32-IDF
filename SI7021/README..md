@@ -1,4 +1,4 @@
-The Silicon Labs Humidity and Temperature sensor is an accurate enviornment sensor with an I2C interface. The driver implements on a small portion of its functionality.
+The Silicon Labs Humidity and Temperature sensor is an accurate enviornment sensor with an I2C interface. My driver implements only a small portion of its functionality.
 
 - Iniitalize the device with the ESP32 ADC port - only number one is implemented in the current tool chain
 - Reset the device
