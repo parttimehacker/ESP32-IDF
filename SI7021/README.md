@@ -1,4 +1,4 @@
-The Silicon Labs Humidity and Temperature sensor is an accurate enviornment sensor with an I2C interface. My driver implements only a small portion of its functionality.
+The Silicon Labs Si-7021 Humidity and Temperature sensor is an accurate enviornment sensor with an I2C interface. My driver implements only a small portion of its functionality.
 
 Driver methods:
 
