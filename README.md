@@ -4,13 +4,13 @@ Internet of things applications and libraries based on the ESP32 IDF tool chain.
 I2C bus sensors
 
 - Silicon Labs Si-7021 temperature and humidity sensor
-- OLED from a variety of manufacturers <b> coming soon<\b>
-- Light and proximity sensor - coming soon
+- OLED from a variety of manufacturers <b> coming soon</b>
+- Light and proximity sensor <b>coming soon</b>
 
 GPIO Digital Sensors
 
-- PIR sensor using an interrupt
+- PIR sensor using an interrupt <b>coming soon</b>
 
 GPIO Digital Actuators
 
-- MOSFET switch
+- MOSFET switch <b>coming soon</b>
