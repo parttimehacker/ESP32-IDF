@@ -1,6 +1,10 @@
-Simplified interface to the interrupt service logic. 
+# Interrupt Service
 
-Method: initialize an interrupt handler service. 
+A simplified interface to the interrupt service logic. 
+
+- Method: initialize an interrupt handler service. 
+- Test queue handle for interrupts 
+- GPIO pin which created the interrupt is returned
 
 xQueueHandle initialize_interrupt(
   uint32_t gpio_pin,
