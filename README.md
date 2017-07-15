@@ -9,7 +9,7 @@ I2C bus sensors
 
 GPIO Digital Sensors
 
-- PIR sensor using an interrupt <b>coming soon</b>
+- PIR sensor using an interrupt service 
 
 GPIO Digital Actuators
 
